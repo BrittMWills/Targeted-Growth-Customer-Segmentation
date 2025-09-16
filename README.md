@@ -116,4 +116,5 @@ Without these insights:
 
 ---
 
-## 📂 Repo Structure (suggested)
+✍️ **Author:** Brittany Williams – Junior Analyst (Zomato Analytics Team)  
+📅 **Date:** September 2025  
